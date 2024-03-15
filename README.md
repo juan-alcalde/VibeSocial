@@ -24,28 +24,35 @@ User Registration and Login:
 
 Users can register for an account with Juan'sApp using their email address and password.
 Existing users can log in to their accounts securely.
+
 Create Posts:
 
 Users can create posts containing text, images, or links.
 The post creation form provides options for different types of posts, such as text-only, image, or link posts.
+
 Navigation:
 
 The app provides navigation functionality, allowing users to move between different sections or pages.
 Navigation is facilitated through links and buttons, providing a seamless user experience.
+
 Post Listing:
 
 Users can view a list of posts created by themselves or other users.
 Posts are displayed in a visually appealing format, with options to view text, images, or links depending on the post type.
+
 Interactivity:
 
 Users can interact with posts by liking or disliking them.
 The app allows users to comment on posts, fostering engagement and discussion within the community.
+
 Content Creation Assistance:
 
 The app offers assistance in creating posts, with features like input fields, buttons, and icons guiding users through the post creation process.
+
 Accessibility:
 
 The app ensures accessibility by providing descriptive labels, alt text for images, and appropriate input field attributes for screen readers.
+
 Responsive Design:
 
 The app is designed to be responsive, ensuring optimal viewing and functionality across various devices and screen sizes.
@@ -138,15 +145,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Content Sharing and Discovery:
 
 Users can utilize Juan'sApp to share their thoughts, experiences, and interests with others in the community. They can create posts containing text, images, or links to articles, websites, or multimedia content. Others can discover and engage with these posts, fostering discussion and interaction.
+
 Community Engagement:
 
 VibeSocial serves as a platform for community engagement, allowing users to connect with like-minded individuals who share similar interests or viewpoints. Users can participate in discussions, comment on posts, and interact with other users' content, creating a sense of belonging and camaraderie within the community.
+
 Networking and Collaboration:
 
 Users can leverage VibeSocial for networking and collaboration purposes. They can connect with professionals, experts, or enthusiasts in their field of interest, exchange ideas, seek advice, or collaborate on projects and initiatives.
+
 Information Sharing and Education:
 
 VibeSocial can be used as a resource for information sharing and education. Users can share informative articles, tutorials, guides, or educational resources relevant to their interests or expertise. This facilitates knowledge exchange and continuous learning within the community.
+
 Promotion and Marketing:
 
 Individuals, businesses, or organizations can utilize VibeSocial as a platform for promotion and marketing. They can share updates, announcements, promotions, or events with the community, reaching a targeted audience and building brand awareness.
