@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/49215817c644c37af342635799c38df3/tumblr_niftg2uANI1u2uymso1_500.gif)
+![MasterHead](https://i.imgur.com/mjM2pPy.gif)
 # VibeSocial
 
 The VibeSocial project is a web platform designed to facilitate content creation, sharing, and interaction, offering a dynamic environment for users to engage with various media and discussions. Using React.js for the frontend, delivering a seamless user interface. With JSON Server as its database management system, it ensures practice for more efficient data storage later on with MicrosoftSQL, enabling scalability and performance optimization. This front-end solution epitomizes modern web development practices, emphasizing robustness, responsiveness, and usability.
