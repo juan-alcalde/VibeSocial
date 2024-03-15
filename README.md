@@ -174,4 +174,4 @@ Contributions to VibeSocial are welcome! To contribute, please fork the reposito
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([LICENSE](https://opensource.org/license/mit)https://opensource.org/license/mit).
