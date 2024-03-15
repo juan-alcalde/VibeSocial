@@ -8,6 +8,7 @@ The VibeSocial project is a web platform designed to facilitate content creation
 - [VibeSocial](#vibesocial)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
+  - [ERD](#erd)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
   - [Setup and Installation](#setup-and-installation)
@@ -18,6 +19,11 @@ The VibeSocial project is a web platform designed to facilitate content creation
 ## About
 
 VibeSocial is a social platform designed to facilitate community engagement and content sharing. With intuitive features for creating and sharing posts, users can express themselves through text, images, and links. Whether it's sharing insights, discussing topics of interest, or staying updated with community events, VibeSocial provides a seamless and interactive experience. Users can register, login, and create personalized profiles to connect with like-minded individuals and contribute to vibrant discussions. With a user-friendly interface and robust functionality, VibeSocial fosters a dynamic online community where ideas flourish and connections thrive.
+### ERD
+
+![Tabloid ERD](https://github.com/juan-alcalde/VibeSocial/assets/143422887/7118790a-635c-4bec-989f-149e5c4fb8f4)
+
+
 ## Features
 
 User Registration and Login:
