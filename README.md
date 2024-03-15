@@ -28,7 +28,7 @@ VibeSocial is a social platform designed to facilitate community engagement and 
 
 User Registration and Login:
 
-Users can register for an account with Juan'sApp using their email address and password.
+Users can register for an account with VibeSocial using their email address and password.
 Existing users can log in to their accounts securely.
 
 Create Posts:
