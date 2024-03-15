@@ -1,0 +1,97 @@
+
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+
+
+.PostForm--background{
+    height: 100vh;
+    background-color: #cacfd2;
+    background-size: 200% 200%;
+    
+}
+.postForm--title {
+   display: flex;
+   font-size: 2rem;
+   font-weight: 330;
+   line-height: 1.5;
+   color: #1e1d1d;
+   margin: 0 4%;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.postContainer{
+    display: flex;
+    justify-content: center;
+    width: 700px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    background: #fbf6f6;
+    margin-left: 18%;
+    border-radius: 10px; 
+}  
+.postTabs{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+} 
+.postForm{
+    margin: 0.8%;
+}
+#tab{
+    border-radius: 5px; 
+    background: #ffffff; 
+    color: #1d1d1d; 
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+    background-color: hsla(0,0%,100%,0.40);
+}
+#tab:hover {
+    background-color:  #e1dfdf; 
+}
+#tab.active {
+    background-color: #484848;
+    color: #fff;
+}
+.postButtonContainer{
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 50%;
+}
+.postButton {
+    display: inline-block;
+    padding: 5px 20px;
+    border: none;
+    font-size: 19px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #3f4040; 
+    color: #FFFFFF;
+    border-radius: 10px; 
+}
+.postButton:hover{
+background-color: #083253;
+}
+
+
+
+/* aside {
+    border: 1px solid black;
+    border-radius: 3%;
+    display: block;
+    width:23%;
+    height: auto;
+    padding: 2%;
+    float: right;
+    background-color: rgba(246, 246, 246, 0.8);
+    margin-right: 5%; 
+} */
+text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+
+
+
+
+
+
+

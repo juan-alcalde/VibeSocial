@@ -1,0 +1,37 @@
+.createPostButton--Container{
+    display: flex;
+    justify-content: space-between;
+    
+  }
+.postButtonImage--Card{
+    width: 35px; 
+    height: 35px;
+    background-color: #ffffff; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    border-radius: 6px; 
+    
+  }
+.postButtonImage--Card:hover{
+    background-color: #c1bebe;
+  }
+.postButtonLink--Card{
+    width: 35px; 
+    height: 35px;
+    background-color: #ffffff; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    border-radius: 6px; 
+  }
+.postButtonLink--Card:hover{
+    background-color: #c1bebe;
+  }
+#createPostButtonImage{
+    margin: 0 8%;
+    margin-top: 8%;
+  }
+#createPostButtonLink{
+    margin: 0 8%;
+    margin-top: 8%;
+  }
+  #postbuttontextbox{
+    background-color: rgb(232, 230, 230);
+  }

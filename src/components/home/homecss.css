@@ -1,0 +1,105 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
+.homebackground{
+  background-color: #cacfd2;
+  height:auto;
+ }
+.postButton--Container{
+  display: flex;
+  justify-content: center; 
+ }
+.postButton--Card{
+  width: 620px; 
+  background-color: #fff; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  border-radius: 8px; 
+  padding: 20px; 
+ } 
+.post--Container{
+  display: flex;
+  justify-content: center;
+   
+  
+ }
+.post--Card{
+    background-color: #f1efef; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
+    margin: 10px;
+    
+   
+ }
+.postUsername{
+    margin: 0 2%;
+    font-size: x-small;
+ }
+.postPreview-Title{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1.3rem;
+    color: #1b1a1a;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 0 3%;
+    
+ }
+.postMedia{
+    display: flex;
+    justify-content: center;
+    
+    background-color: #ffffff;
+ }
+.postDescription{
+    width: 600px;
+    height: auto;
+    font-size: 17px;
+    margin: 0 1.3%;
+   
+ }
+.like-dislike-comment--Container {
+    display: flex;
+    justify-content: space-between;
+ }
+.likes--Card{
+    display: flex;
+    justify-content: space-around;
+ }
+.like-button,
+.dislike-button,
+.comment-button{
+  border-radius: 5px; 
+  background: #ffffff; 
+  color: #1d1d1d; 
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+  background-color: hsla(0,0%,100%,0.40);
+  border: none;
+  border-color: aquamarine;
+    
+ }
+.like-button:hover,
+.dislike-button:hover,
+.comment-button:hover {
+    background-color: #cacfd2; 
+    
+ }
+.like-button.active{
+  background-color: aliceblue;
+  border: #f1efef;
+ }
+.edit-btn{
+  border-radius: 5px; 
+  background: #ffffff; 
+  color: #1d1d1d; 
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+  background-color: hsla(0,0%,100%,0.40);
+ }
+.edit-btn:hover{
+    background-color: #cacfd2; 
+ }

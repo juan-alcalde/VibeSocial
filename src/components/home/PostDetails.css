@@ -1,0 +1,146 @@
+.postDetailBackground{
+    background-color: #cacfd2;
+   
+}
+.postDetails--Container{
+    display: flex;
+    justify-content: center;
+}
+.postDetails--Card{
+    width: 800px;
+    height: auto; 
+    background-color: #e7e2e2; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
+    padding: 12px; 
+    margin-top: 2%;
+}
+.postDetailsPreview-Title{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 30px;
+    color: #1f1d1d;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.postDetailsMedia{
+    display: flex;
+    justify-content: flex-start;
+    background-color: #ffffff;
+    margin-top: 0.3%;
+    
+}
+.postDetailsDescription{
+    font-size: 18px;
+    margin: 0 1%;
+    height: auto;
+ 
+}
+.like-dislike-commentDetails--Container{
+    width: 750px;
+}
+.like-dislike-comentDetails--Card{
+    display: flex;
+    justify-content: space-between
+   
+
+}
+.like-button-Details{
+    font-size: x-large;
+    background-color: #e7e2e2; 
+    color: rgb(41, 51, 44); 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 100px;
+    height: 50px;
+}
+.comment-button-Details{
+    font-size: xx-large;
+    background-color: #e7e2e2;
+    color: rgb(41, 51, 44); 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 12px;
+    
+    
+}
+.like-button-Details:hover,
+.comment-button-Details:hover {
+    background-color: #cacfd2; 
+}
+.postDetailComment-Container{
+    margin:0 10%;   
+}
+.usertime--Container{
+display: flex;
+flex-direction: column;
+color: #515151;
+}              
+.postDetails-TimeStamp{
+  margin: 0 1%;
+  font-size: 12px;
+}
+.postDetails-Username{
+  margin: 0 1%;
+  font-size: 12px;
+}
+ .editDetail-btn{
+  border-radius: 5px; 
+  background: #ffffff; 
+  color: #1d1d1d; 
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+  background-color: hsla(0,0%,100%,0.40);
+  width: 100px;
+    height: 50px;
+  
+} 
+ .editDetail-btn:hover{
+  background-color: #cacfd2;
+}
+ .deleteDetail-btn{
+  border-radius: 5px; 
+    background: #ffffff; 
+    color: #1d1d1d; 
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+    background-color: hsla(0,0%,100%,0.40);
+    border-color: red;
+   width: 100px;
+    height: 50px;
+  margin-top: 12px;
+}
+ .deleteDetail-btn:hover{
+  background-color: #cacfd2; 
+
+}
+.postDetailExitBtn--Container{
+  width: 780px;
+}
+.exitbtn--Card{
+  display: flex;
+  justify-content: flex-end;
+ 
+}
+.postDetailExitBtn{
+  border-radius: 5px; 
+    background: #ffffff; 
+    color: #1d1d1d; 
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    background-color: #e7e2e2;
+    border: none;
+    
+}
+.postDetailExitBtn:hover{
+  background-color: #cacfd2;
+}

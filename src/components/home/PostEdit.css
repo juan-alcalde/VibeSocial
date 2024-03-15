@@ -1,0 +1,48 @@
+.PostEdit--background{
+    background-color: #cacfd2;
+     
+}
+.postEdit--Container{
+  display: flex;
+  justify-content: center;
+}
+.postEdit--Card{
+  width: 620px; 
+  background-color: #fff; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  border-radius: 8px; 
+  padding: 20px; 
+  
+}
+.EditForm-title{
+  display: flex;
+  font-size: 2rem;
+  font-weight: 330;
+  line-height: 1.5;
+  color: #1e1d1d;
+  margin: 0 4%;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.form-title{
+  color: #848383;
+  font-size: 19px;
+}
+.EditExitBtn--Container{
+  width: 580px;
+}
+.EditExitBtn{
+  border-radius: 5px; 
+  background: #ffffff; 
+  color: #1d1d1d; 
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  background-color: #ffffff;
+  border: none;
+}
+.EditExitBtn:hover{
+  background-color: #cacfd2;
+}
+.form-control{
+  border: red;
+}

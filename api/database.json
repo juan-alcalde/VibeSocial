@@ -1,0 +1,175 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "johndoe123",
+      "email": "john@example.com",
+      "address": "123 Main St, City, Country",
+      "phone": "+1234567890",
+      "dateOfBirth": "1990-01-01",
+      "bio": "Hello, I'm John! I love coding and music."
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "username": "janesmith456",
+      "email": "jane@example.com",
+      "address": "456 Elm St, City, Country",
+      "phone": "+0987654321",
+      "dateOfBirth": "1995-03-15",
+      "bio": "I'm Jane, an artist and a nature enthusiast!"
+    },
+    {
+      "email": "me@me.com",
+      "fullName": "Jisanthapus Fartin ",
+      "isStaff": false,
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "title": "My First Concert Experience ",
+      "timeStamp": "2023-11-21T06:05:38.768Z",
+      "url": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan dapibus magna vel blandit. Nunc sed metus id nisi tempor hendrerit. Quisque efficitur ipsum quis ex euismod tempus. Mauris et sollicitudin magna. Etiam nec sagittis nulla. Aenean at vulputate nibh. Duis finibus vehicula sem quis finibus. Morbi neque enim, pellentesque id ullamcorper ac, blandit ac erat. Etiam diam est, posuere ac facilisis placerat, interdum at dui. Donec blandit eu lacus sit amet congue. Duis nec odio nibh. Ut tempor, sem id bibendum elementum, libero sem placerat tortor, ut accumsan diam nibh ac elit. Nam porta diam massa.\n\nPellentesque luctus nec elit at commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum nibh mauris, porttitor sit amet blandit a, faucibus in est. Praesent fringilla, lorem eget ultrices pellentesque, justo urna tincidunt mi, et euismod est urna ac libero. Nulla facilisi. Duis dignissim nibh at ligula porta, non interdum leo gravida.\n\nMaecenas at nisl laoreet, ullamcorper dolor a, porta arcu. Aliquam pulvinar sit amet risus vel vulputate. Vivamus gravida augue a posuere semper. Morbi sollicitudin maximus metus eu maximus. Integer mattis felis in maximus interdum. Phasellus molestie dolor massa, laoreet condimentum mauris lacinia quis. Morbi eget efficitur sapien. Curabitur sit amet nisi nisi.\n\nFusce volutpat convallis magna quis porta. Donec lobortis, purus eu rutrum tempor, enim urna tempor metus, et venenatis ligula est ac mauris. Nulla pharetra molestie dapibus. Nullam sodales dictum enim non malesuada. Nam vel aliquet nisi, at laoreet purus. Ut sed sodales ligula, ut lobortis leo. Donec mattis vitae risus eget fringilla. Morbi quis velit sapien. Donec tortor ligula, vehicula non venenatis eget, blandit vel mi. Maecenas ultricies euismod mauris, quis gravida ex bibendum sed. Pellentesque vestibulum at libero ullamcorper feugiat.\n\nDonec quis eleifend nulla, a rutrum turpis. Integer finibus interdum finibus. Donec quis neque dignissim, ornare nibh sed, eleifend tortor. Suspendisse tempus dignissim magna, vitae aliquam sem. Mauris et purus ac lorem imperdiet dapibus. Phasellus non varius nunc, ut accumsan sem. In facilisis diam sed neque aliquet, quis congue ex tincidunt. Donec est nibh, rhoncus vitae ligula at, porta finibus tellus. Duis ultrices non turpis eu rhoncus. Aliquam a lorem convallis, pellentesque est sed, vulputate massa. Ut in ultrices sem. Donec eget tortor fermentum, hendrerit est nec, mattis nulla. Aenean condimentum maximus odio et pulvinar.",
+      "comments": "",
+      "tags": "",
+      "voteCount": "",
+      "image": "",
+      "metadata": "",
+      "id": 1,
+      "likes": 4
+    },
+    {
+      "userId": 1,
+      "title": "Led Zep!! 🤘",
+      "timeStamp": "2023-11-21T06:14:43.776Z",
+      "url": "",
+      "description": "",
+      "comments": "",
+      "tags": "",
+      "voteCount": "",
+      "image": "https://m.media-amazon.com/images/I/41-EZlMFRHL._UXNaN_FMjpg_QL85_.jpg",
+      "metadata": "",
+      "id": 2,
+      "likes": 5
+    },
+    {
+      "userId": 1,
+      "title": "My favorite Track",
+      "timeStamp": "2023-11-21T06:17:42.060Z",
+      "url": "https://www.youtube.com/embed/JOKn33-q4Ao?si=VrQ8x7UAVplI3ju9",
+      "description": "",
+      "comments": "",
+      "tags": "",
+      "voteCount": "",
+      "image": "",
+      "metadata": "",
+      "id": 3,
+      "likes": 4
+    },
+    {
+      "userId": 2,
+      "title": "Why I Hate Radio Pop Music",
+      "timeStamp": "2023-11-21T06:32:56.187Z",
+      "url": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacinia ligula eu pretium facilisis. Sed efficitur lacus aliquam risus consequat tincidunt. Nullam venenatis varius urna, eu malesuada libero pulvinar aliquet. Donec mauris nisi, elementum a nulla vestibulum, convallis pellentesque diam. Aenean non rhoncus magna. Nulla vehicula felis quis erat aliquam, eu aliquam nisl venenatis. Nulla laoreet risus vel leo tincidunt, ac tempor nisi posuere. Vivamus nec elit sed diam iaculis rhoncus. Phasellus sit amet arcu ex. Nam sit amet metus efficitur, placerat nisl vel, finibus nibh. Mauris ac nibh odio. Pellentesque urna nisi, commodo condimentum commodo in, pretium vestibulum nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\n\nProin rutrum quam commodo congue viverra. Aenean luctus velit a tellus suscipit, sed euismod nulla hendrerit. Etiam venenatis leo nisl, in consequat est elementum id. Suspendisse mollis in arcu ac vulputate. Pellentesque enim ante, iaculis ac sem non, lacinia scelerisque diam. Sed placerat imperdiet tempor. Proin vitae ante sit amet purus imperdiet malesuada. Duis sed tellus eu purus efficitur consequat eget in elit. Proin at varius nulla. Cras sed massa sit amet sem mollis facilisis. Ut dui urna, fermentum sit amet iaculis vitae, efficitur quis nunc. In magna massa, dignissim nec suscipit a, dapibus id enim.",
+      "comments": "",
+      "tags": "",
+      "voteCount": "",
+      "image": "",
+      "metadata": "",
+      "likes": 26,
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "My Doomer Playlist ",
+      "timeStamp": "2023-11-21T06:34:51.445Z",
+      "url": "https://www.youtube.com/embed/mk_TkG-NCI4?si=1l11xeNuKZMkb1CP",
+      "description": "Let me know what you guys think ! ",
+      "comments": "",
+      "tags": "",
+      "voteCount": "",
+      "image": "",
+      "metadata": "",
+      "likes": 19,
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "title": "Let's Talk About A Dope Band Y'all!!",
+      "timeStamp": "2023-11-21T06:39:46.442Z",
+      "url": "",
+      "description": " System of a Down is an Armenian-American heavy metal band formed in Glendale, California, in 1994. Since 1997, the band has consisted of Serj Tankian (lead vocals, keyboards); Daron Malakian (guitar, vocals); Shavo Odadjian (bass, backing vocals); and John Dolmayan (drums), who replaced original drummer Andy Khachaturian.",
+      "comments": "",
+      "tags": "",
+      "voteCount": "",
+      "image": "https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578",
+      "metadata": "",
+      "likes": 11,
+      "id": 6
+    }
+  ],
+  "userPosts": [],
+  "comments": [],
+  "articles": [
+    {
+      "userId": 1,
+      "dateCreated": "2023-11-09T03:07:46.186Z",
+      "id": 1
+    },
+    {
+      "title": "poop",
+      "url": "",
+      "synopsis": "yo good shit",
+      "userId": 1,
+      "dateCreated": "2023-11-09T03:09:12.489Z",
+      "id": 2
+    }
+  ],
+  "messages": [
+    {
+      "userId": 1,
+      "message": "yo wassup",
+      "id": 1
+    }
+  ],
+  "events": [
+    {
+      "title": "y",
+      "dateTime": "2023-11-07",
+      "location": "1",
+      "entryText": "1",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "y",
+      "dateTime": "2023-11-07",
+      "location": "y",
+      "entryText": "y",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "completed": false,
+      "id": 1
+    }
+  ],
+  "images": [
+    {
+      "src": "",
+      "caption": "yo comment ",
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "friends": []
+}

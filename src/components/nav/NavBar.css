@@ -1,0 +1,71 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+
+.header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #817f7f;
+    color: #fff;
+   height: 35px;
+  }
+.navbar {
+    display: flex;
+    background-color: #817f7f;
+    list-style: none;
+    margin-top: 4%;
+    gap: 20px;
+    height: 30px;
+  }
+.navbar-Link {
+    color: #fff; 
+    
+    padding: 5px;
+    border-radius: 5px; 
+    transition: background-color 0.3s;
+    text-align: center;
+  }
+.navbar-Link:hover {
+    background-color: #d3d0d0;
+    text-decoration: none;
+    color: #fff;
+  }
+
+.logout-Link{
+    color: #fff; 
+    margin: 0 50px;
+    padding: 5px;
+    border-radius: 5px; 
+    transition: background-color 0.3s;
+    text-align: center;  
+  }
+.logout-Link:hover {
+    background-color: #d3d0d0; 
+    text-decoration: none;
+    color: #fff;
+  }
+  
+.search-bar {
+  position: relative;
+  display: inline-block;
+  
+}
+
+.search-input {
+  padding: 8px 12px; 
+  font-size: 14px; 
+  border: 1px solid #ccc; 
+  border-radius: 20px; 
+  outline: none; 
+  width: 200px; 
+  height: 25px;
+}
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px; 
+  transform: translateY(-50%);
+  color: #555; 
+  cursor: pointer;
+}
+

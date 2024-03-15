@@ -1,0 +1,82 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+@keyframes gradientAnimation {
+0% {
+    background-position: 0% 50%;
+  }
+50% {
+    background-position: 100% 50%;
+  }
+100% {
+    background-position: 0% 50%;
+  }
+  }
+.loginPage--Container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  font-family: "Comfortaa", Arial, sans-serif;
+  line-height: 1.5;
+  background: linear-gradient(45deg, #111212, #e7e7e7);
+  background-size: 200% 200%;
+  animation: gradientAnimation 10s ease infinite;
+  width: calc(100% + 100px); 
+  position: relative; 
+  left: -50px;  
+  }
+.loginLogoText{
+  font-size: 3rem;
+  color: #e1dfdf;
+  } 
+.login--Form {
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+  }
+.login--Form{
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+  }
+.login--Form > fieldset > input[type="email"] {
+    width: 25em;
+  }
+.login--Form > fieldset > input[type="password"] {
+    width: 25em;
+  }
+.login-Title{
+    display: flex;
+    justify-content: center;
+    
+  }
+fieldset {
+    min-width: 0;
+    padding: 1rem 0;
+    margin: 0;
+    border: 0;
+  }
+
+.submit-btn {
+    display: block;
+    width: 100%;
+    padding: 0.5em 1em;
+    margin-top: 1em;
+    border: none;
+    border-radius: 4px;
+    background: rgb(100, 154, 225); 
+    color: #fff; 
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+.submit-btn:hover {
+    background: #0b0c0c; 
+  }
+
+  
+  
+ 
+  
